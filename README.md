@@ -14,3 +14,19 @@
 - `getByRole` option `{ name: }`
 - Jest `describe` to gropu tests
 - Unit testing functions
+
+## ESLint and Prettier
+
+- ESLint: Linter
+- Perttier: Formater
+
+### ESLint
+
+- Install
+
+```bash
+npm install eslint-plugin-testing-library eslint-plugin-jest-dom
+```
+
+- Remove `eslintConfig` from `packge.json`
+- Create `.eslintrc.json` and add standard config
