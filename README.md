@@ -1,5 +1,16 @@
 # Udemy Testing Library 강의 수강 기록
 
-### Color Button Porject
+## Color Button Porject
 
 - `testing-library`와 `jest`를 활용하여 Unit Test의 기초를 학습한다.
+
+### Review
+
+- Test interactivity using `fireEvent`
+- jest-dom assertions:
+  - `toBeEnabled()`
+  - `toBeDisabled()`
+  - `toBeChecked()`
+- `getByRole` option `{ name: }`
+- Jest `describe` to gropu tests
+- Unit testing functions
