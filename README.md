@@ -30,3 +30,5 @@ npm install eslint-plugin-testing-library eslint-plugin-jest-dom
 
 - Remove `eslintConfig` from `packge.json`
 - Create `.eslintrc.json` and add standard config
+
+## Sundaes on Demand
