@@ -34,3 +34,7 @@ npm list @testing-library/user-event
 ```bash
 npm install @testing-library/react@14 @testing-library/user-event@14 @testing-library/dom@9
 ```
+
+### Review
+
+- Use `userEvent`
