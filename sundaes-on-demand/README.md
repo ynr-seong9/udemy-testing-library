@@ -38,3 +38,11 @@ npm install @testing-library/react@14 @testing-library/user-event@14 @testing-li
 ### Review
 
 - Use `userEvent`
+
+### MSW
+
+- Install
+
+```bash
+npm instlal msw
+```
